@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "471083226501",
+    "project_id": "flash-chat-4c2a1",
+    "storage_bucket": "flash-chat-4c2a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471083226501:android:30034f8c213a3cb1ade0ec",
+        "android_client_info": {
+          "package_name": "co.danadelion.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "471083226501-qh7ufen7ii3esm9e3c9rg12jhj9l2om3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7LdjPI2cB63pYTOVjZADOnrrfxqRkgPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "471083226501-qh7ufen7ii3esm9e3c9rg12jhj9l2om3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "471083226501-e2fklecadlgn9q1c5pkpbqbc1p2jpmmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.danadelion.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
